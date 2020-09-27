@@ -1,3 +1,2 @@
-# Chess-game-with-AI
-# --------------------------------------------
+# Chess Game with AI
 This is a Chess Game with AI made with Java
