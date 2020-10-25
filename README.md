@@ -1,2 +1,2 @@
-# Chess Game with AI
-This is a Chess Game with AI made with Java
+# Chess Game
+This is a Chess Game with Java
